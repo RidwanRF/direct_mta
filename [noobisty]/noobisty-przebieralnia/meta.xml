@@ -1,0 +1,12 @@
+<meta>
+
+    <script src="c.lua" type="client" cache="false"/>
+    <script src="useful.lua" type="client" cache="false"/>
+    <script src="s.lua" type="server"/>
+
+    <file src="data/shirt.png"/>
+    <file src="data/eye.png"/>
+    <file src="data/buy.png"/>
+    <file src="data/take.png"/>
+
+</meta>

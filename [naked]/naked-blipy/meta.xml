@@ -1,0 +1,28 @@
+<meta>
+	<script src="c.lua" type="client" cache="false" />
+
+	<file src="images/background.png" />
+	<file src="images/engine_icon.png" />
+	<file src="images/engine_icon_active.png" />
+	<file src="images/lights_icon.png" />
+	<file src="images/lights_icon_active.png" />
+	<file src="images/brake_icon_active.png" />
+	<file src="images/brake_icon.png" />
+	<file src="images/arrow.png" />
+	<file src="images/lock.png" />
+	<file src="images/suspension.png" />
+	<file src="images/passanger_out.png" />
+	<file src="images/lights.png" />
+	<file src="images/handbrake.png" />
+	<file src="images/engine.png" />
+	<file src="images/fuel_bg.png" />
+	<file src="images/fuel_level_bg.png" />
+	<file src="images/gas_not_low.png" />
+	<file src="images/gas_low.png" />
+	<file src="images/fuel.png" />
+	<file src="images/bg.png" />
+	<file src="images/bg2.png" />
+	<file src="bold.ttf" />
+
+
+</meta>

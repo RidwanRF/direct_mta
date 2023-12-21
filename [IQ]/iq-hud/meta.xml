@@ -1,0 +1,10 @@
+<meta>
+    <script src="utils.lua" type="client" cache="false" />
+    <script src="client.lua" type="client" cache="false" />
+
+    <file src="data/images/border.png" />
+    <file src="data/images/level_bg.png" />
+    <file src="data/images/money_bg.png" />
+
+    <file src="data/fx/circle.fx" />
+</meta>

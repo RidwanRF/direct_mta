@@ -1,0 +1,35 @@
+<meta>
+    <script src='main.lua' type='client' cache='false'/>
+    <script src='animate.lua' type='client' cache='false'/>
+    <script src='useful.lua' type='client' cache='false'/>
+    <script src='element.lua' type='client' cache='false'/>
+    <script src='button.lua' type='client' cache='false'/>
+    <script src='editbox.lua' type='client' cache='false'/>
+    <script src='checkbox.lua' type='client' cache='false'/>
+    <!-- <script src="cursor.lua" type='client' cache='false'/> -->
+
+    <export function='createButton' type='client'/>
+    <export function='isCheckboxChecked' type='client'/>
+    <export function='createCheckbox' type='client'/>
+    <export function='setCheckboxText' type='client'/>
+    <export function='setButtonText' type='client'/>
+    <export function='createEditbox' type='client'/>
+    <export function='setEditboxText' type='client'/>
+    <export function='getEditboxText' type='client'/>
+    <export function='getEditboxText' type='client'/>
+    <export function='getElement' type='client'/>
+    <export function='destroyUIElement' type='client'/>
+    <export function='setElementActive' type='client'/>
+    <export function='fadeElement' type='client'/>
+    <export function='interpolateToPosition' type='client'/>
+    <export function='setElementAlpha' type='client'/>
+    <export function='getInterfaceZoom' type='client'/>
+    <export function='importAnimate' type='client'/>
+
+    <file src="cursor/cursor.png" />
+    <file src="cursor/grabbed.png" />
+    <file src="cursor/pointer.png" />
+    <file src="cursor/text.png" />
+
+    <download_priority_group>20</download_priority_group>
+</meta>

@@ -1,0 +1,39 @@
+<meta>
+    <script src="ripple.lua" type="client" cache="false"/>
+    <script src="client.lua" type="client" cache="false"/>
+    <script src="useful.lua" type="client" cache="false"/>
+    <script src="button.lua" type="client" cache="false"/>
+    <script src="editbox.lua" type="client" cache="false"/>
+    
+
+    <file src="data/Lato-Regular.ttf"/>
+    <file src="data/Lato-Bold.ttf"/>
+    <file src="data/Roboto.ttf"/>
+    <file src="data/cipa.ttf" />
+
+    <file src="data/button.png"/>
+    <file src="data/editbox.png"/>
+    <file src="data/button_hover.png"/>
+    <file src="data/bar_1.png"/>
+
+
+    <file src="data/hover.mp3"/>
+    <file src="data/click.mp3"/>
+
+    <export function="getFont" type="client"/>
+    <export function="getZoom" type="client"/>
+    <export function="setZoom" type="client"/>
+    <export function="createButton" type="client"/>
+    <export function="destroyButton" type="client"/>
+    <export function="setButtonClickable" type="client"/>
+    <export function="createEditbox" type="client"/>
+    <export function="destroyEditbox" type="client"/>
+    <export function="setEditboxVisible" type="client"/>
+    <export function="setButtonVisible" type="client"/>
+    <export function="setEditboxPosition" type="client"/>
+    <export function="setButtonPosition" type="client"/>
+    <export function="getEditboxText" type="client"/>
+    <export function="setEditboxText" type="client"/>
+
+    <download_priority_group>2</download_priority_group>
+</meta>

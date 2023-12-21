@@ -1,0 +1,25 @@
+<meta>
+    <script src='useful.lua' type='client' cache='false'/>
+    <script src='client.lua' type='client' cache='false'/>
+
+	<file src="data/background.png"/>
+	<file src="data/bar-background.png"/>
+	<file src="data/bar.png"/>
+	<file src="data/dot-active.png"/>
+	<file src="data/dot.png"/>
+	<file src="data/1.png"/>
+	<file src="data/2.png"/>
+	<file src="data/3.png"/>
+	<file src="data/mask.png"/>
+	<file src="data/tex_matrix.fx"/>
+	<file src="data/mask.fx"/>
+	<file src="data/music.mp3"/>
+
+	<export function='showLoading' type='client'/>
+	<export function='hideLoading' type='client'/>
+	<export function='isActive' type='client'/>
+	<export function='setText' type='client'/>
+	<export function='setProgress' type='client'/>
+
+	<download_priority_group>17</download_priority_group>
+</meta>

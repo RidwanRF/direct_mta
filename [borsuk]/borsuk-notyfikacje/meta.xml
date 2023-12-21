@@ -1,0 +1,16 @@
+<meta>
+    <script src='utils.lua' type='client' cache='false'/>
+    <script src='client.lua' type='client' cache='false'/>
+    <script src="server.lua" type="server" />
+
+    <file src='data/background-success.png'/>
+    <file src='data/background-info.png'/>
+    <file src='data/background-warning.png'/>
+    <file src='data/background-error.png'/>
+    <file src='data/Inter-Bold.ttf'/>
+    <file src='data/Inter-Medium.ttf'/>
+
+    <export function='addNotification' type='shared'/>
+    <export function='setNotificationText' type='client'/>
+    <export function='deleteNotification' type='client'/>
+</meta>

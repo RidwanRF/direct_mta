@@ -1,0 +1,5 @@
+<meta>
+	
+	<info author="NoPe" name="GP" description="Score" type="script" version="1.3" /> 
+	<script src="gp.lua" type="client" />
+</meta>

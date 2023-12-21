@@ -1,0 +1,24 @@
+<meta>
+	
+	<!-- Scripts -->
+	<script src="c.lua" type="client" cache="false"/>
+	<script src="s.lua" type="server"/>
+	<export function="addVehiclePaintjob" type="client"/>
+	
+	<!-- IMPORTANT -->
+	<file src="files/textureChanger.fx"/>
+	
+	<!-- Paintjobs -->
+	<file src="files/1.png"/>
+	<file src="files/2.png"/>
+	<file src="files/3.png"/>
+	<file src="files/4.png"/>
+	<file src="files/5.png"/>
+	<file src="files/6.png"/>
+	<file src="files/7.png"/>
+	<file src="files/8.png"/>
+	<file src="files/9.png"/>
+	<file src="files/10.png"/>
+    <file src="files/11.png"/>
+	<file src="files/12.png"/>
+</meta>

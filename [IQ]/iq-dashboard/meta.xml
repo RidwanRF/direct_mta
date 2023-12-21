@@ -1,0 +1,27 @@
+<meta>
+    <script src="utils.lua" type="client" cache="false" />
+    <script src="pages.lua" type="client" cache="false" />
+    <script src="client.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" />
+
+    <file src="data/images/background.png" />
+    <file src="data/images/mask.png" />
+    <file src="data/images/pages_bg.png" />
+    <file src="data/images/page.png" />
+    <file src="data/images/main.png" />
+    <file src="data/images/dailyTask.png" />
+    <file src="data/images/button_hovered.png" />
+    <file src="data/images/dailyAward.png" />
+    <file src="data/images/account_data_bg.png" />
+    <file src="data/images/task_bg.png" />
+    <file src="data/images/task_progress_bg.png" />
+    <file src="data/images/task_progress.png" />
+    <file src="data/images/level_bg.png" />
+    <file src="data/images/level_progress.png" />
+    <file src="data/images/actions_bg.png" />
+    <file src="data/images/action_bg.png" />
+    <file src="data/images/skin_mask.png" />
+
+    <file src="data/fx/mask.fx" />
+    <file src="data/fx/tex_matrix.fx" />  
+</meta>

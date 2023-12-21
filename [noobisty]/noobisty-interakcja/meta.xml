@@ -1,0 +1,32 @@
+<meta>
+    <script src="client.lua" type="client" cache="false"/>
+    <script src="useful.lua" type="client" cache="false"/>
+    <script src="server.lua" type="server"/>
+
+    <file src="data/abs.png"/>
+    <file src="data/arrow.png"/>
+    <file src="data/brake.png"/>
+    <file src="data/cbradio.png"/>
+    <file src="data/doors.png"/>
+    <file src="data/drivetype.png"/>
+    <file src="data/ecu.png"/>
+    <file src="data/headlights.png"/>
+    <file src="data/kick.png"/>
+    <file src="data/limiter.png"/>
+    <file src="data/lock.png"/>
+    <file src="data/lpg.png"/>
+    <file src="data/motor.png"/>
+    <file src="data/polilights.png"/>
+    <file src="data/roof.png"/>
+    <file src="data/susp.png"/>
+    <file src="data/taxo.png"/>
+    <file src="data/tow.png"/>
+    <file src="data/tow_prep.png"/>
+    <file src="data/windows.png"/>
+    <file src="data/key.png"/>
+    <file src="data/fancy-line.png"/>
+    <file src="data/mask.png"/>
+    <file src="data/nitro.png"/>
+    <file src="data/tex_matrix.fx"/>
+    <file src="data/mask.fx"/>
+</meta>

@@ -1,0 +1,8 @@
+<meta>
+
+    <script src='c.lua' type='client' cache='false'/>
+    <file src='img/shader.fx'/>
+    <file src='img/shaderOutter.fx'/>
+    <file src='img/wounds.png'/>
+
+</meta>

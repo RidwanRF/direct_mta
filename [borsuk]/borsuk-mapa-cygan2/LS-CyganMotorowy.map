@@ -1,0 +1,18 @@
+<map edf:definitions="editor_main">
+    <object id="object (veg_bevtree1) (1)" breakable="true" interior="0" alpha="255" model="713" doublesided="false" scale="1" dimension="0" posX="1867.9" posY="-1842.8" posZ="12.6" rotX="0" rotY="0" rotZ="78.882"></object>
+    <object id="object (veg_bevtree1) (2)" breakable="true" interior="0" alpha="255" model="713" doublesided="false" scale="1" dimension="0" posX="1896.9" posY="-1850.9" posZ="12.6" rotX="0" rotY="0" rotZ="168.882"></object>
+    <object id="object (veg_bevtree1) (3)" breakable="true" interior="0" alpha="255" model="713" doublesided="false" scale="1" dimension="0" posX="1877" posY="-1874.8" posZ="12.6" rotX="0" rotY="0" rotZ="218.882"></object>
+    <object id="object (fenceshit2) (1)" breakable="true" interior="0" alpha="255" model="984" doublesided="false" scale="1" dimension="0" posX="1895.2" posY="-1847.3" posZ="13.2" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fenceshit2) (2)" breakable="true" interior="0" alpha="255" model="984" doublesided="false" scale="1" dimension="0" posX="1882.4" posY="-1847.3" posZ="13.2" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fenceshit2) (3)" breakable="true" interior="0" alpha="255" model="984" doublesided="false" scale="1" dimension="0" posX="1869.6" posY="-1847.2" posZ="13.2" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fenceshit2) (4)" breakable="true" interior="0" alpha="255" model="984" doublesided="false" scale="1" dimension="0" posX="1868" posY="-1847.2" posZ="13.2" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (trailer_large4_01) (1)" breakable="true" interior="0" alpha="255" model="3173" doublesided="false" scale="1" dimension="0" posX="1868.1" posY="-1855.1" posZ="12.6" rotX="0" rotY="0" rotZ="317.494"></object>
+    <object id="object (trailer_large4_01) (2)" breakable="true" interior="0" alpha="255" model="3173" doublesided="false" scale="1" dimension="0" posX="1891.7" posY="-1855.1" posZ="12.6" rotX="0" rotY="0" rotZ="257.494"></object>
+    <object id="object (imy_bbox) (1)" breakable="true" interior="0" alpha="255" model="2991" doublesided="false" scale="1" dimension="0" posX="1873.4" posY="-1878" posZ="13.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_FIREBIN) (1)" breakable="true" interior="0" alpha="255" model="1362" doublesided="false" scale="1" dimension="0" posX="1877.6" posY="-1852.3" posZ="13.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_FIREBIN) (2)" breakable="true" interior="0" alpha="255" model="1362" doublesided="false" scale="1" dimension="0" posX="1897.9" posY="-1861.7" posZ="13.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (RACK2) (1)" breakable="true" interior="0" alpha="255" model="925" doublesided="false" scale="1" dimension="0" posX="1883.7" posY="-1850.7" posZ="13.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ab_warehouseShelf) (1)" breakable="true" interior="0" alpha="255" model="2567" doublesided="false" scale="1" dimension="0" posX="1869.6" posY="-1870.6" posZ="14.5" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (trailer5_01) (1)" breakable="true" interior="0" alpha="255" model="3171" doublesided="false" scale="1" dimension="0" posX="1873.6" posY="-1870.7" posZ="12.5" rotX="0" rotY="0" rotZ="200"></object>
+    <object id="object (sm_airstrm_sml_) (1)" breakable="true" interior="0" alpha="255" model="3174" doublesided="false" scale="1" dimension="0" posX="1885.5" posY="-1877.7" posZ="12.5" rotX="0" rotY="0" rotZ="270"></object>
+</map>

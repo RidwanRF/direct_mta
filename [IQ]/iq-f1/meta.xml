@@ -1,0 +1,16 @@
+<meta>
+    <script src="utils.lua" type="client" cache="false" />
+    <script src="pages.lua" type="client" cache="false" />
+    <script src="client.lua" type="client" cache="false" />
+    
+    <file src="data/images/bg.png" />
+    <file src="data/images/page_bg.png" />
+    <file src="data/images/page_selected.png" />
+    <file src="data/images/info.png" />
+    <file src="data/images/premium.png" />
+    <file src="data/images/authors.png" />
+    <file src="data/images/bg_howstart.png" />
+    <file src="data/images/work_bg.png" />
+    <file src="data/images/premium_bg.png" />
+    <file src="data/images/authors_bg.png" />
+</meta>

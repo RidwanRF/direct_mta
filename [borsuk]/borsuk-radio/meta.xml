@@ -1,0 +1,10 @@
+<meta>
+
+    <script src="useful.lua" type="client" cache="false"/>
+    <script src="animations.lua" type="client" cache="false"/>
+    <script src="client.lua" type="client" cache="false"/>
+    <script src="server.lua" type="server"/>
+    <export function="setRadioVolume" type="client"/>
+    <export function="getRadioVolume" type="client"/>
+
+</meta>

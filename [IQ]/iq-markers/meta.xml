@@ -1,0 +1,30 @@
+<meta>
+    <script src="useful.lua" type="client" cache="false"/>
+    <script src="client.lua" type="client" cache="false"/>
+
+    <file src="data/glow.png"/>
+    <file src="data/skin.png"/>
+    <file src="data/entrance.png"/>
+    <file src="data/default.png"/>
+    <file src="data/cheese.png"/>
+    <file src="data/icecream.png"/>
+    <file src="data/snacks.png"/>
+    <file src="data/vegetables.png"/>
+    <file src="data/clothing.png"/>
+    <file src="data/gielda.png"/>
+    <file src="data/parking.png"/>
+    <file src="data/prawojazdy.png"/>
+    <file src="data/repair.png"/>
+    <file src="data/salon.png"/>
+    <file src="data/treasure.png"/>
+    <file src="data/tshirt.png"/>
+    <file src="data/pack.png"/>
+    <file src="data/house.png"/>
+
+    <file src='data/circle1.png'/>
+    <file src='data/circle2.png'/>
+    <file src='data/circle3.png'/>
+    <file src='data/circle4.png'/>
+
+    <min_mta_version client="1.5.9" server="1.5.9" />
+</meta>

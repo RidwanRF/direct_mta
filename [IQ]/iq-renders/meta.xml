@@ -1,0 +1,10 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+
+    <export function="createTarget" type="client"/>
+    <export function="destroyTarget" type="client"/>
+    <export function="getScrollPosition" type="client"/>
+    <export function="setMaxScrollLimit" type="client"/>
+    <export function="setScrollPosition" type="client"/>
+    <export function="interpolateTarget" type="client"/>
+</meta>

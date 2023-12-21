@@ -1,0 +1,21 @@
+<meta>
+    <script src="utils.lua" type="client" cache="false" />
+    <script src="client.lua" type="client" cache="false" />
+
+    <file src="data/images/bg.png" />
+    <file src="data/images/logo.png" />
+    <file src="data/images/editbox.png" />
+    <file src="data/images/circle.png" />
+    <file src="data/images/player_bg.png" />
+    <file src="data/images/test_avatar.png" />
+    <file src="data/images/border.png" />
+    <file src="data/images/circle2.png" />
+    <file src="data/images/afk.png" />
+    <file src="data/images/ping_icon.png" />
+    <file src="data/images/4.png" />
+    <file src="data/images/1.png" />
+    <file src="data/images/3.png" />
+
+    <min_mta_version client="1.3.0-9.04431"/>
+    <download_priority_group>-1</download_priority_group>
+</meta>

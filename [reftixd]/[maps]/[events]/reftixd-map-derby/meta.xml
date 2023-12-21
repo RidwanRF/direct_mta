@@ -1,0 +1,12 @@
+<meta>
+	<script src="server.lua" type="server" />
+	<script src="kolizja-ogrodzenia.lua" type="client" /> 
+	<file src="kolizja-ogrodzenie-derby.col" />
+	<file src="przywraca-kolizje.col" />
+    <info type="map" version="1.0.0"></info>
+    <map src="derby.map" dimension="0"></map>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+	
+	<sync_map_element_data>false</sync_map_element_data>
+</meta>

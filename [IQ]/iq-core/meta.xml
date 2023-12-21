@@ -1,0 +1,31 @@
+<meta>
+    <script src="main.lua" type="server" />
+
+    <script src="players/id.lua" type="server" />
+    <script src="players/data.lua" type="server" />
+    <script src="players/chat.lua" type="server" />
+    <script src="players/utils.lua" type="server" />
+    <script src="players/ban.lua" type="server" />
+    <script src="players/time.lua" type="server" />
+    <script src="players/licenses.lua" type="server" />
+    <script src="players/animations.lua" type="server" />
+
+    <script src="discord/utils.lua" type="server" />
+
+    <script src="vehicles/main.lua" type="server" />
+    <script src="vehicles/data.lua" type="server" />
+    <script src="vehicles/fuel.lua" type="client" cache="false" />
+
+    <script src="commands/premium.lua" type="server" />
+
+    <export function="findPlayer" type="server" />
+    <export function="spawnPlr" type="server" />
+    <export function="loadPlayerData" type="server" />
+    <export function="savePlayerData" type="server" />
+    <export function="addPlayerTime" type="server" />
+    <export function="addPlayerLicense" type="server" />
+    <export function="isPlayerHaveLicense" type="server" />
+    <export function="createPrivateVehicle" type="server" />
+    <export function="saveVehicle" type="server" />
+    <export function="loadVehicle" type="server" />
+</meta>

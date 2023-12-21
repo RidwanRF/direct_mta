@@ -1,0 +1,74 @@
+<meta>
+    <script src="utils.lua" type="client" cache="false" />
+    <script src="codeKey.luac" />
+    <script src="client.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" />
+    
+    <file src="data/models/store.colc"></file>
+    <file src="data/models/store.dffc"></file>
+    <file src="data/models/store.txd"></file>
+    <file src="data/models/barber.colc"></file>
+    <file src="data/models/barber.dffc"></file>
+    <file src="data/models/barber.txd"></file>
+    <file src="data/models/groundbarber.colc"></file>
+    <file src="data/models/groundbarber.dffc"></file>
+    <file src="data/models/groundbarber.txd"></file>
+    <file src="data/models/ambulan.dffc"></file>
+    <file src="data/models/ambulan.txd"></file>
+    <file src="data/models/dft30.dffc"></file>
+    <file src="data/models/dft30.txd"></file>
+    <file src="data/models/mechanik_garaz.colc"></file>
+    <file src="data/models/mechanik_garaz.dffc"></file>
+    <file src="data/models/mechanik_garaz.txd"></file>
+    <file src="data/models/bench1.colc"></file>
+    <file src="data/models/bench1.dffc"></file>
+    <file src="data/models/chlights.colc"></file>
+    <file src="data/models/chlights.dffc"></file>
+    <file src="data/models/chlights.txd"></file>
+    <file src="data/models/choinka.colc"></file>
+    <file src="data/models/choinka.dffc"></file>
+    <file src="data/models/choinka.txd"></file>
+    <file src="data/models/dev_tool.colc"></file>
+    <file src="data/models/dev_tool.dffc"></file>
+    <file src="data/models/dev_tool.txd"></file>
+    <file src="data/models/dev_tool2.colc"></file>
+    <file src="data/models/dev_tool2.dffc"></file>
+    <file src="data/models/dev_tool2.txd"></file>
+    <file src="data/models/dev_tool3.colc"></file>
+    <file src="data/models/dev_tool3.dffc"></file>
+    <file src="data/models/dev_tool3.txd"></file>
+    <file src="data/models/kruton9000.colc"></file>
+    <file src="data/models/kruton9000.dffc"></file>
+    <file src="data/models/kruton9000.txd"></file>
+    <file src="data/models/prezenty.colc"></file>
+    <file src="data/models/prezenty.dffc"></file>
+    <file src="data/models/prezenty.txd"></file>
+    <file src="data/models/pumpkin.colc"></file>
+    <file src="data/models/pumpkin.dffc"></file>
+    <file src="data/models/pumpkin.txd"></file>
+    <file src="data/models/ramp.colc"></file>
+    <file src="data/models/ramp.dffc"></file>
+    <file src="data/models/ramp.txd"></file>
+    <file src="data/models/snowmen.colc"></file>
+    <file src="data/models/snowmen.dffc"></file>
+    <file src="data/models/snowmen.txd"></file>
+    <file src="data/models/tire.colc"></file>
+    <file src="data/models/tire.dffc"></file>
+    <file src="data/models/tire.txd"></file>
+    <file src="data/models/tire2.colc"></file>
+    <file src="data/models/tire2.dffc"></file>
+    <file src="data/models/tire2.txd"></file>
+    <file src="data/models/tools.colc"></file>
+    <file src="data/models/tools.dffc"></file>
+    <file src="data/models/tools.txd"></file>
+    <file src="data/models/welder.colc"></file>
+    <file src="data/models/welder.dffc"></file>
+    <file src="data/models/welder.txd"></file>
+    <file src="data/models/slupek.colc"></file>
+    <file src="data/models/slupek.dffc"></file>
+    <file src="data/models/slupek.txd"></file>
+    <file src="data/models/dockbar.txd"></file>
+    <file src="data/models/prawkoext.colc"></file>
+    <file src="data/models/prawkoext.dffc"></file>
+    <file src="data/models/prawkoext.txd"></file>
+</meta>

@@ -1,0 +1,6 @@
+<meta>
+    <script src="Podmianki.lua" type="client" />
+    <file src="crate.txd" />
+    <file src="crate.col" />
+    <file src="crate.dff" />
+</meta>

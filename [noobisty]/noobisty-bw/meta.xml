@@ -1,0 +1,10 @@
+<meta>
+
+    <script src='useful.lua' type='client' cache='false'/>
+    <script src='s.lua' type='server'/>
+    <script src='c.lua' type='client' cache='false'/>
+
+    <file src='data/blackwhite.fx'/>
+    <file src='data/background.png'/>
+
+</meta>

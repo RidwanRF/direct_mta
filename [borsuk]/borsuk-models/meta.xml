@@ -1,0 +1,46 @@
+<meta>
+    <script src="client.lua" type="client" cache="false"/>
+
+    <file src="data/vendmach.dff"/>
+    <file src="data/test.dff"/>
+    <file src="data/test.col"/>
+    <file src="data/test.txd"/>
+    <file src="data/zabka.dff"/>
+    <file src="data/exter.dff"/>
+    <file src="data/zabka.col"/>
+    <file src="data/zabka.txd"/>
+    <file src="data/szyba.dff"/>
+    <file src="data/szyba.txd"/>
+    <file src="data/szyba.col"/>
+    <file src="data/model.dff"/>
+    <file src="data/model.txd"/>
+    <file src="data/model.col"/>
+    <file src="data/box.dff"/>
+    <file src="data/box.txd"/>
+    <file src="data/box.col"/>
+    <file src="data/mechanik.col"/>
+    <file src="data/mechanik.txd"/>
+    <file src="data/mechanik.dff"/>
+    <file src="data/stairs.col"/>
+    <file src="data/stairs.txd"/>
+    <file src="data/stairs.dff"/>
+    <file src="data/jetmax.txd"/>
+    <file src="data/jetmax.dff"/>
+    <file src="data/FishingRod.txd"/>
+    <file src="data/FishingRod.dff"/>
+    <file src="data/monroe.txd"/>
+    <file src="data/monroe.dff"/>
+    <file src="data/FAME.dff"/>
+    <file src="data/FAME.col"/>
+    <file src="data/FAME.txd"/>
+    <file src="data/duneride.dff"/>
+    <file src="data/duneride.txd"/>
+    <file src="data/marshall.dff"/>
+    <file src="data/marshall.txd"/>
+    <file src="data/student.dff"/>
+    <file src="data/student.txd"/>
+    <file src="data/toolbox.dff"/>
+    <file src="data/toolbox.txd"/>
+    <file src="data/faggio.dff"/>
+    <file src="data/faggio.txd"/>
+</meta>

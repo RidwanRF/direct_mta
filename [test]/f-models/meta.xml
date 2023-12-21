@@ -1,0 +1,13 @@
+<meta>
+    <oop>true</oop>
+    <file src="ventos_ventos-stacja.bin"></file>
+    <file src="ventos_salon4.bin"></file>
+    <file src="ventos_ventos-dystrybutor.bin"></file>
+    <file src="ventos_salon3.bin"></file>
+    <file src="ventos_salon2.bin"></file>
+    <file src="ventos_ventos-model-przecho.bin"></file>
+    <file src="ventos_salon1.bin"></file>
+    <file src="ventos_ventos-gielda1.bin"></file>
+    <file src="ventos_ventos-model-mechanik.bin"></file>
+    <script src="client.lua" type="client" cache="false" />
+</meta>

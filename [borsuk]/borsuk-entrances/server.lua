@@ -1,0 +1,5 @@
+addEvent("setPlayerInt", true)
+addEventHandler("setPlayerInt", root, function(int, dim)
+	setElementInterior(source, int)
+	setElementDimension(source, dim)
+end)

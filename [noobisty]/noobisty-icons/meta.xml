@@ -1,0 +1,12 @@
+<meta>
+
+    <script src="icons.lua" type="client" cache="false"/>
+
+    <export function="getIcon" type="client"/>
+
+    <file src="buttons/start.png"/>
+    <file src="buttons/upgrade.png"/>
+    <file src="buttons/cancel.png"/>
+    <file src="buttons/buy.png"/>
+
+</meta>

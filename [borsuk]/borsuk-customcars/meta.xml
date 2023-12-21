@@ -1,0 +1,37 @@
+<meta>
+    <script src="shared.lua" type="shared" cache="false"/>
+
+    <script src="server.lua" type="server"/>
+    <script src="client.lua" type="client" cache="false"/>
+
+    <export function="createVehicle" type="server"/>
+    <export function="getVehicleType" type="shared"/>
+
+    <file src="data/comet.dff"/>
+    <file src="data/comet.txd"/>
+    <file src="data/tron.dff"/>
+    <file src="data/tron.txd"/>
+    <file src="data/blistacrx.dff"/>
+    <file src="data/blistacrx.txd"/>
+    <file src="data/cockroach.dff"/>
+    <file src="data/cockroach.txd"/>
+    <file src="data/gauntlet.dff"/>
+    <file src="data/gauntlet.txd"/>
+    <file src="data/zion.dff"/>
+    <file src="data/zion.txd"/>
+    <file src="data/barracks.dff"/>
+    <file src="data/barracks.txd"/>
+    <file src="data/kuruma1.dff"/>
+    <file src="data/kuruma1.txd"/>
+    <file src="data/kuruma2.dff"/>
+    <file src="data/kuruma2.txd"/>
+    <file src="data/kuruma3.dff"/>
+    <file src="data/kuruma3.txd"/>
+    <file src="data/kuruma4.dff"/>
+    <file src="data/kuruma4.txd"/>
+
+    <file src="data/bmwm2.dff"/>
+    <file src="data/bmwm2.txd"/>
+    <file src="data/gclass.dff"/>
+    <file src="data/gclass.txd"/>
+</meta>

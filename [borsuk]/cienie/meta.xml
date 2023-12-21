@@ -1,0 +1,16 @@
+<meta>
+	<info description="Shader - sm test3" version="0.0.3" type="script" />
+	<min_mta_version client="1.4" server="1.4" />
+    <oop>true</oop>
+	<script src="c_main.lua" type="client" cache="false" />
+	<script src="c_common.lua" type="client" cache="false" />
+	<script src="c_material2D_shadowMapOut.lua" type="client" cache="false" />
+	<file src="fx/material2D_shadowMapOut.fx" type="client" cache="false" />
+	<file src="fx/sm_in.fx" type="client" cache="false" />
+	<file src="fx/sm_wat.fx" type="client" cache="false" />
+	<file src="fx/sm_world.fx" type="client" cache="false" />
+	<file src="fx/mta-helper.fx" type="client" cache="false" />
+
+	<export function="switchShader" type="client" />
+	<export function="isShadowsOn" type="client" />
+</meta>

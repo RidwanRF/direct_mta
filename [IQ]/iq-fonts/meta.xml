@@ -1,0 +1,12 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+
+    <file src="data/fonts/bold.ttf" />
+    <file src="data/fonts/extrabold.ttf" />
+    <file src="data/fonts/light.ttf" />
+    <file src="data/fonts/medium.ttf" />
+    <file src="data/fonts/regular.ttf" />
+    <file src="data/fonts/semibold.ttf" />
+
+    <export function="getFont" type="client" />
+</meta>

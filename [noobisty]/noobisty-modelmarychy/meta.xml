@@ -1,0 +1,5 @@
+<meta>
+    <script src="c.lua" type="client" cache="false"/>
+	<file src="files/marysia.txd" type="client"/>
+    <file src="files/marysia.dff" type="client"/>
+</meta>

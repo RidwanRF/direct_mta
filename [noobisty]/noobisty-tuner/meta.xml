@@ -1,0 +1,10 @@
+<meta>
+
+    <script src='utils.lua' type='client' cache='false'/>
+    <script src='c.lua' type='client' cache='false'/>
+    <script src='c_gui.lua' type='client' cache='false'/>
+    <script src="s.lua" type="server"/>
+
+    <export function="hideVinyls" type="client"/>
+
+</meta>

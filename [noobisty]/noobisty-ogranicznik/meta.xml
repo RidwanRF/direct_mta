@@ -1,0 +1,5 @@
+<meta>
+	<script src="tempomat_c.lua" type="client" />
+
+	<export function="addCuboid" type="client"/>
+</meta>

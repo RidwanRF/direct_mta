@@ -1,0 +1,27 @@
+<meta>
+    <script src="utils.lua" type="client" cache="false" />
+    <script src="client.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" />
+
+    <file src="data/images/background.png" />
+    <file src="data/images/login_bg.png" />
+    <file src="data/images/logo.png" />
+    <file src="data/images/editbox.png" />
+    <file src="data/images/checkbox_off.png" />
+    <file src="data/images/checkbox_on.png" />
+    <file src="data/images/button.png" />
+    <file src="data/images/qr.png" />
+    <file src="data/images/update_bg.png" />
+    <file src="data/images/update.png" />
+    <file src="data/images/bar_bg.png" />
+    <file src="data/images/update_image1.png" />
+    <file src="data/images/update_image2.png" />
+    <file src="data/images/bar.png" />
+    <file src="data/images/item_bg.png" />
+    <file src="data/images/mask.png" />
+    <file src="data/images/spawn_line.png" />
+    <file src="data/images/icon_spawn.png" />
+
+    <file src="data/fx/mask.fx" />
+    <file src="data/fx/tex_matrix.fx" />
+</meta>

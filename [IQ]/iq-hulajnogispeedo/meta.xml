@@ -1,0 +1,8 @@
+<meta>
+    <script src="utils.lua" type="client" cache="false" />
+    <script src="client.lua" type="client" cache="false" />
+
+    <file src="data/fx/circle.fx" />
+
+    <file src="data/fonts/digitalnumbers-regular.ttf" />
+</meta>

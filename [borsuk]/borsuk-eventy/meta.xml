@@ -1,0 +1,9 @@
+<meta>
+    <script src="client.lua" type="client" cache="false"/>
+    <script src="modes/tron.lua" type="client" cache="false"/>
+    <script src="modes/ztp.lua" type="client" cache="false"/>
+    <script src="events.lua" type="shared" cache="false"/>
+    <script src="server.lua" type="server"/>
+
+    <file src="data/line.png"/>
+</meta>

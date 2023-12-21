@@ -1,0 +1,26 @@
+<meta>
+	<script src="settings.lua" type="shared" cache="false"/>
+	<script src="c.lua" type="client" cache="false"/>
+	<script src="s.lua" type="server" />
+
+	<file src="models/wheels/wheel.idff" />
+	<file src="models/wheels/1025.icol" />
+	<file src="models/wheels/1073.icol" />
+	<file src="models/wheels/1074.icol" />
+	<file src="models/wheels/1075.icol" />
+	<file src="models/wheels/1076.icol" />
+	<file src="models/wheels/1077.icol" />
+	<file src="models/wheels/1078.icol" />
+	<file src="models/wheels/1079.icol" />
+	<file src="models/wheels/1080.icol" />
+	<file src="models/wheels/1081.icol" />
+	<file src="models/wheels/1082.icol" />
+	<file src="models/wheels/1083.icol" />
+	<file src="models/wheels/1084.icol" />
+	<file src="models/wheels/1085.icol" />
+	<file src="models/wheels/1097.icol" />
+
+	<export function="loadModels" type="client" />
+
+  <min_mta_version client="1.5.2"></min_mta_version>
+</meta>

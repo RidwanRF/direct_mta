@@ -1,0 +1,6 @@
+<meta>
+    <script src='server.lua' type='server'/>
+
+    <export function='status' type='server'/>
+    <export function='query' type='server'/>
+</meta>

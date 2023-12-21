@@ -1,0 +1,20 @@
+<meta>
+    <script src="client.lua" type="client" cache="false"/>
+    <script src="server.lua" type="server"/>
+
+	<file src="data/mechanik.dff.enc"/>
+	<file src="data/mechanik.txd.enc"/>
+	<file src="data/mechanik.col.enc"/>
+	<file src="data/przechowalnia.dff.enc"/>
+	<file src="data/przechowalnia.txd.enc"/>
+	<file src="data/przechowalnia.col.enc"/>
+	<file src="data/przechowalnia.dff.enc"/>
+	<file src="data/przechowalnia.txd.enc"/>
+	<file src="data/przechowalnia.col.enc"/>
+	<file src="data/stacja.dff.enc"/>
+	<file src="data/stacja.txd.enc"/>
+	<file src="data/stacja.col.enc"/>
+	<file src="data/stacja.dff"/>
+	<file src="data/stacja.txd"/>
+	<file src="data/stacja.col"/>
+</meta>

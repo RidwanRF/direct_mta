@@ -1,0 +1,91 @@
+<meta>
+    <script src='settings.lua' type='shared' cache='false'/>
+    <script src='replace.lua' type='client' cache='false'/>
+    <script src='utils.lua' type='client' cache='false'/>
+    <script src='client.lua' type='client' cache='false'/>
+    <script src='gui.lua' type='client' cache='false'/>
+    <script src='plant.lua' type='client' cache='false'/>
+    <script src='server.lua' type='server' cache='false'/>
+
+    <file src='data/barn.dff'/>
+    <file src='data/barn.txd'/>
+    <file src='data/barn.col'/>
+
+    <file src='data/hoe.dff'/>
+    <file src='data/hoe.txd'/>
+    <file src='data/hoe.col'/>
+
+    <file src='data/can.dff'/>
+    <file src='data/can.txd'/>
+    <file src='data/can.col'/>
+
+    <file src='data/ground.dff'/>
+    <file src='data/ground.txd'/>
+    <file src='data/ground.col'/>
+
+    <file src='data/beetroot.dff'/>
+    <file src='data/beetroot.txd'/>
+    <file src='data/beetroot.col'/>
+
+    <file src='data/carrot.dff'/>
+    <file src='data/carrot.txd'/>
+    <file src='data/carrot.col'/>
+
+    <file src='data/patatoes.dff'/>
+    <file src='data/patatoes.txd'/>
+    <file src='data/patatoes.col'/>
+
+    <file src='data/onions.dff'/>
+    <file src='data/onions.txd'/>
+    <file src='data/onions.col'/>
+
+    <file src='data/tomato.dff'/>
+    <file src='data/tomato.txd'/>
+    <file src='data/tomato.col'/>
+
+    <file src='data/redflower.dff'/>
+    <file src='data/redflower.txd'/>
+    <file src='data/redflower.col'/>
+
+    <file src='data/greenflower.dff'/>
+    <file src='data/greenflower.txd'/>
+    <file src='data/greenflower.col'/>
+
+    <file src='data/blueflower.dff'/>
+    <file src='data/blueflower.txd'/>
+    <file src='data/blueflower.col'/>
+
+    <file src='data/coca.dff'/>
+    <file src='data/coca.txd'/>
+    <file src='data/coca.col'/>
+
+    <file src='data/wheat.dff'/>
+    <file src='data/wheat.txd'/>
+    <file src='data/wheat.col'/>
+
+    <file src='data/house.dff'/>
+    <file src='data/house.txd'/>
+    <file src='data/house.col'/>
+
+    <file src='data/watercan.mp3'/>
+    <file src='data/shovel.mp3'/>
+    <file src='data/harvest.mp3'/>
+
+    <file src='data/shader.fx'/>
+    <file src='data/default.png'/>
+    <file src='data/plowed.png'/>
+    <file src='data/planted.png'/>
+    <file src='data/wet.png'/>
+    <file src='data/walk.png'/>
+
+    <file src='data/background.png'/>
+    <file src='data/background2.png'/>
+    <file src='data/background3.png'/>
+    <file src='data/button.png'/>
+    <file src='data/button-active.png'/>
+    <file src='data/barn.png'/>
+    
+    <file src='data/Inter-Regular.ttf'/>
+    <file src='data/Inter-Medium.ttf'/>
+    <file src='data/Inter-Bold.ttf'/>
+</meta>

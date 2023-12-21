@@ -1,0 +1,10 @@
+<meta>
+    <script src="client.lua" type="client" cache="false"/>
+    <script src="server.lua" type="server"/>
+
+    <file src="data/palette.png"/>
+    <file src="data/color.png"/>
+    <file src="data/black.png"/>
+    <file src="data/arrow.png"/>
+    <file src="data/pick.png"/>
+</meta>

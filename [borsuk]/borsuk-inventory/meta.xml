@@ -1,0 +1,47 @@
+<meta>
+    <script src='utils.lua' type='client' cache='false'/>
+    <script src='client.lua' type='client' cache='false'/>
+    <script src='editbox.lua' type='client' cache='false'/>
+    <script src='trade.lua' type='client' cache='false'/>
+    <script src='quick-inventory.lua' type='client' cache='false'/>
+    <script src='shop.lua' type='client' cache='false'/>
+    <script src='shared.lua' type='shared' cache='false'/>
+    <script src='items.lua' type='shared' cache='false'/>
+    <script src='settings.lua' type='shared' cache='false'/>
+    <script src='server.lua' type='server'/>
+
+    <file src='data/background.png'/>
+    <file src='data/item.png'/>
+    <file src='data/editbox.png'/>
+    <file src='data/progress.png'/>
+    <file src='data/progress-bg.png'/>
+    <file src='data/dot.png'/>
+    <file src='data/button.png'/>
+    <file src='data/info.png'/>
+    <file src='data/quick-background.png'/>
+    <file src='data/quick-item.png'/>
+    <file src='data/shop-background.png'/>
+    <file src='data/cart.png'/>
+    <file src='data/cart-item.png'/>
+    <file src='data/cart-remove.png'/>
+    <file src='data/cart-item-hover.png'/>
+    <file src='data/cart-remove-hover.png'/>
+
+    <file src='data/money.png'/>
+    <file src='data/milka-snack.png'/>
+    <file src='data/fishing-rod.png'/>
+
+    <file src='data/item_shadow.png' />
+    <file src='data/level_progress.png' />
+
+    <file src='data/Inter-Regular.ttf'/>
+    <file src='data/Inter-Medium.ttf'/>
+    <file src='data/Inter-Bold.ttf'/>
+
+    <min_mta_version server="1.5.2-9.07903" client="1.5.2-9.07903" />
+
+    <export function="addPlayerItemProgress" type="shared" />
+    <export function="getPlayerInventory" type="shared" />
+    <export function="setPlayerInventory" type="shared" />
+    <export function="addPlayerItem" type="shared" />
+</meta>

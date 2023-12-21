@@ -1,0 +1,18 @@
+<meta>
+    <script src="server.lua" type="server" />
+    <script src="client.lua" type="client" cache="false" />
+
+    <file src="data/fx/mask.fx" />
+    <file src="data/fx/tex_matrix.fx" />
+
+    <file src="data/images/mask.png" />
+    <file src="data/images/avatar.png" />
+    <file src="data/images/mask2.png" />
+
+    <export function="getPlayerAvatar" type="client" />
+    <export function="getCircleAvatar" type="client" />
+
+    <file src="mask.png" />
+
+    <min_mta_version server="1.5.9" client="1.5.9" />
+</meta>

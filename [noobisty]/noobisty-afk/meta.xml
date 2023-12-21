@@ -1,0 +1,9 @@
+<meta>
+
+    <script src='useful.lua' type='client' cache='false'/>
+    <script src='c.lua' type='client' cache='false'/>
+    <script src='s.lua' type='server'/>
+
+    <file src='img/time.png'/>
+
+</meta>

@@ -1,0 +1,45 @@
+<meta>
+    <script src='useful.lua' type='client' cache='false'/>
+    <script src='jobs.lua' type='shared' cache='false'/>
+    <script src='client.lua' type='client' cache='false'/>
+    <script src='server.lua' type='server'/>
+    <script src='shared.lua' type='shared' cache='false'/>
+    <script src='test.lua' type='client' cache='false'/>
+
+	<!-- coop -->
+    <script src='coop/client.lua' type='client' cache='false'/>
+    <script src='coop/server.lua' type='server'/>
+
+	<file src="data/background.png"/>
+	<file src="data/top-bg.png"/>
+	<file src="data/history-bg.png"/>
+	<file src="data/boost-bg.png"/>
+	<file src="data/upgrades-bg.png"/>
+	<file src="data/_single_boost.png"/>
+	<file src="data/minus-boost.png"/>
+	<file src="data/average.png"/>
+	<file src="data/sad.png"/>
+	<file src="data/normal.png"/>
+	<file src="data/Star.png"/>
+	<file src="data/points-bg.png"/>
+	<file src="data/points-bg.png"/>
+	<file src="data/points-bg.png"/>
+	<file src="data/upgrade-bg.png"/>
+	<file src="data/_single_bolt.png"/>
+	<file src="data/_single_buy.png"/>
+	<file src="data/button.png"/>
+	<file src="data/_single_help.png"/>
+	<file src="data/circle.png"/>
+	<file src="data/coop-bg.png"/>
+	<file src="data/item.png"/>
+	<file src="data/item-active.png"/>
+	<file src="data/coop-button.png"/>
+	<file src="data/coop-button-active.png"/>
+
+	<export function='getUpgradePoints' type='shared'/>
+	<export function='addUpgradePoints' type='shared'/>
+	<export function='addPlayerJobPoints' type='server'/>
+	<export function='giveJobMoney' type='shared'/>
+
+	<file src="data/grzybiarz/image.png"/>
+</meta>

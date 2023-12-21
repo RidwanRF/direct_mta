@@ -1,0 +1,68 @@
+<meta>
+    <script src='useful.lua' type='shared' cache='false'/>
+    <script src='ranks.lua' type='shared' cache='false'/>
+    <script src='shared.lua' type='shared' cache='false'/>
+    <script src='airbreak.lua' type='client' cache='false'/>
+    <script src='cursor.lua' type='client' cache='false'/>
+    <script src='warn.lua' type='client' cache='false'/>
+    <script src='duty.lua' type='server'/>
+
+    <!-- reports -->
+    <script src='reports/client.lua' type='client' cache='false'/>
+    <script src='reports/server.lua' type='server'/>
+
+    <!-- logs -->
+    <script src='logs/client.lua' type='client' cache='false'/>
+    <script src='logs/server.lua' type='server'/>
+
+    <!-- commands -->
+    <script src='commands/tppos.lua' type='server'/>
+    <script src='commands/tppos.lua' type='server'/>
+    <script src='commands/reporty.lua' type='server'/>
+    <script src='commands/teleports.lua' type='server'/>
+    <script src='commands/global.lua' type='server'/>
+    <script src='commands/admin-chat.lua' type='server'/>
+    <script src='commands/boost.lua' type='server'/>
+    <script src='commands/money.lua' type='server'/>
+    <script src='commands/losuj.lua' type='server'/>
+    <script src='commands/vopis.lua' type='server'/>
+    <script src='commands/variant.lua' type='server'/>
+    <script src='commands/waves.lua' type='server'/>
+    <script src='commands/jetpack.lua' type='server'/>
+    <script src='commands/fix.lua' type='server'/>
+    <script src='commands/flip.lua' type='server'/>
+    <script src='commands/kolor.lua' type='server'/>
+    <script src='commands/teleport.lua' type='server'/>
+    <script src='commands/savepos.lua' type='server'/>
+    <script src='commands/mute.lua' type='server'/>
+    <script src='commands/warn.lua' type='server'/>
+    <script src='commands/kick.lua' type='server'/>
+    <script src='commands/zpj.lua' type='server'/>
+    <script src='commands/ban.lua' type='server'/>
+    <script src='commands/heal.lua' type='server'/>
+    <script src='commands/spec.lua' type='server'/>
+    <script src='commands/inv.lua' type='server'/>
+    <script src='commands/cv.lua' type='server'/>
+    <script src='commands/paliwo.lua' type='server'/>
+    <script src='commands/ginfo.lua' type='server'/>
+    <script src='commands/ranga.lua' type='server'/>
+
+    <export function='getAdmin' type='server'/>
+    <export function='getRankName' type='shared'/>
+    <export function='getRankHex' type='shared'/>
+    <export function='getRankRGB' type='shared'/>
+    <export function='getRankColor' type='shared'/>
+    <export function='addChatLog' type='server'/>
+
+    <file src='data/in-work.png'/>
+    <file src='data/accept.png'/>
+    <file src='data/teleport.png'/>
+    <file src='data/teleport-green.png'/>
+    <file src='data/waiting.png'/>
+    <file src='data/x.png'/>
+    <file src='data/overlay.png'/>
+    <file src='data/bar.png'/>
+    <file src='data/chat.png'/>
+    <file src='data/command.png'/>
+    <file src='data/warn.mp3'/>
+</meta>

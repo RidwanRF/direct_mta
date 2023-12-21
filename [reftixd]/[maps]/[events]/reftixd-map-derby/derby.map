@@ -1,0 +1,12 @@
+<map edf:definitions="editor_main">
+    <object id="object (ringwalls) (1)" breakable="true" interior="0" alpha="255" model="13607" doublesided="false" scale="1" dimension="650" posX="4470" posY="-184.10001" posZ="62.4" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (wglasssmash) (1)" breakable="true" interior="0" alpha="255" model="1649" doublesided="true" scale="1" dimension="650" posX="4468.3999" posY="-183.7" posZ="72.4" rotX="90" rotY="45" rotZ="0"></object>
+    <object id="object (wglasssmash) (2)" breakable="true" interior="0" alpha="255" model="1649" doublesided="true" scale="1" dimension="650" posX="4467.3999" posY="-180" posZ="72.4" rotX="90" rotY="44.995" rotZ="0"></object>
+    <object id="object (wglasssmash) (3)" breakable="true" interior="0" alpha="255" model="1649" doublesided="true" scale="1" dimension="650" posX="4471.5" posY="-180.60001" posZ="72.4" rotX="90" rotY="44.995" rotZ="0"></object>
+    <object id="object (wglasssmash) (4)" breakable="true" interior="0" alpha="255" model="1649" doublesided="true" scale="1" dimension="650" posX="4472.2998" posY="-184.5" posZ="72.4" rotX="90" rotY="44.995" rotZ="0"></object>
+    <object id="object (wglasssmash) (5)" breakable="true" interior="0" alpha="255" model="1649" doublesided="true" scale="1" dimension="650" posX="4469.2002" posY="-187.60001" posZ="72.4" rotX="90" rotY="44.995" rotZ="0"></object>
+    <object id="object (wglasssmash) (6)" breakable="true" interior="0" alpha="255" model="1649" doublesided="true" scale="1" dimension="650" posX="4464.2998" posY="-183.10001" posZ="72.4" rotX="90" rotY="44.995" rotZ="0"></object>
+    <object id="object (wglasssmash) (7)" breakable="true" interior="0" alpha="255" model="1649" doublesided="true" scale="1" dimension="650" posX="4465.2998" posY="-186.8" posZ="72.4" rotX="90" rotY="44.995" rotZ="0"></object>
+    <object id="object (wglasssmash) (8)" breakable="true" interior="0" alpha="255" model="1649" doublesided="true" scale="1" dimension="650" posX="4463.6001" posY="-179.10001" posZ="72.4" rotX="90" rotY="44.995" rotZ="0"></object>
+    <object id="object (wglasssmash) (9)" breakable="true" interior="0" alpha="255" model="1649" doublesided="true" scale="1" dimension="650" posX="4473.2002" posY="-188.3" posZ="72.4" rotX="90" rotY="44.995" rotZ="0"></object>
+</map>

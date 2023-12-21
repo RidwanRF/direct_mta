@@ -1,0 +1,11 @@
+<meta>
+    <script src='littlemexico.lua' type='client' cache='false'/>
+    <script src='droga-ls.lua' type='client' cache='false'/>
+    <script src='taxi.lua' type='client' cache='false'/>
+    <script src='skatepark.lua' type='client' cache='false'/>
+    <script src='pizzeria.lua' type='client' cache='false'/>
+    <script src='stacja-flint.lua' type='client' cache='false'/>
+    <script src='airport.lua' type='client' cache='false'/>
+    <script src='sapd.lua' type='client' cache='false'/>
+    <script src='jefferson.lua' type='client' cache='false'/>
+</meta>

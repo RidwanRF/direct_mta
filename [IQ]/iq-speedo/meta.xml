@@ -1,0 +1,23 @@
+<meta>
+    <script src="utils.lua" type="client" cache="false" />
+    <script src="client.lua" type="client" cache="false" />
+
+    <file src="data/images/bg.png" />
+    <file src="data/images/mask.png" />
+    <file src="data/images/mask2.png" />
+    <file src="data/images/bg_circle.png" />
+    <file src="data/images/fill.png" />
+    <file src="data/images/lock.png" />
+    <file src="data/images/lights.png" />
+    <file src="data/images/engine.png" />
+    <file src="data/images/brake.png" />
+    <file src="data/images/bg_fuel.png" />
+    <file src="data/images/fuel.png" />
+    <file src="data/images/fuel_full.png" />
+
+    <file src="data/fx/circle.fx" />
+    <file src="data/fx/mask.fx" />
+    <file src="data/fx/tex_matrix.fx" />
+
+    <file src='data/fonts/digitalnumbers-regular.ttf' />
+</meta>

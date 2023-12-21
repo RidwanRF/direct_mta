@@ -1,0 +1,7 @@
+<meta>
+    <script src="client.lua" type="client" cache="false"/>
+
+    <file src="data/zabka.png"/>
+    <file src="data/leokadia.png"/>
+    <file src="data/galaxy.png"/>
+</meta>

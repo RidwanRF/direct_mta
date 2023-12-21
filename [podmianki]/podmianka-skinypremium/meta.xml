@@ -1,0 +1,26 @@
+<meta>
+  <file src='145.dff' />
+  <file src='51.dff' />
+  <file src='50.dff' />
+  <file src='49.dff' />
+  <file src='63.dff' />
+  <file src='81.dff' />
+  <file src='83.dff' />
+  <file src='84.dff' />
+  <file src='48.dff' />
+  <file src='80.dff' />
+
+  <file src='145.txd' />
+  <file src='51.txd' />
+  <file src='50.txd' />
+  <file src='49.txd' />
+  <file src='63.txd' />
+  <file src='81.txd' />
+  <file src='83.txd' />
+  <file src='84.txd' />
+  <file src='48.txd' />
+  <file src='80.txd' />
+  <file src='52.txd' />
+  <file src='52.dff' />
+  <script src="replace.lua" type="client" cache="false"/>
+</meta>

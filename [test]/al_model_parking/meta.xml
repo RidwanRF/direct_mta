@@ -1,0 +1,6 @@
+<meta>
+    <script src="c_core.lua" type="client" cache="false" validate="true" />
+    <file src="model.txd"/>
+    <file src="model.dffc"/>
+    <file src="model.colc"/>
+</meta>
